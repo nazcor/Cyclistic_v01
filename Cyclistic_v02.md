@@ -193,7 +193,7 @@ The line plot below shows that number of rides per week day separated by
 rider type. Furthermore, it also shows that the highest peak in casual
 rides is on Friday while the highest peak in member rides is on Tuesday.
 
-![](Cyclistic_v02_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![image](https://github.com/user-attachments/assets/e184c242-818e-4a93-ae4c-e12e16d5fbee)
 
 ### Season: Casual Riders vs. Members
 
@@ -206,7 +206,7 @@ most during the summer.
 This is supported by the line plot because both lines peak during the
 Summer.
 
-![](Cyclistic_v02_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![image](https://github.com/user-attachments/assets/5f918f3b-16cb-4318-a643-442f512d7e35)
 
 ## 🏁 Conclusion
 
