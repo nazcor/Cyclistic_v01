@@ -179,7 +179,7 @@ plot individual rides. For instance, a ride that took approximately 12
 hours and 45 minutes would be plotted in box plot 12 and y-coordinate
 45.
 
-![](Cyclistic_v02_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![image](https://github.com/user-attachments/assets/a03868e8-b862-40d9-9d6e-9511712a01b6)
 
 #### Day of week
 
