@@ -1,0 +1,10 @@
+Change Log - Cyclistic
+[1.2.1] - 2024-10-31
+Added
+- Added new tables with clean data excluding rows with empty strings or NULL data
+
+Changed
+
+
+Fixed
+- Fixed column name end_startion_name to correctly be labeled as end_station_name.
