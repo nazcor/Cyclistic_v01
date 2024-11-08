@@ -21,7 +21,7 @@ Cyclistic
 - [Conclusion](#conclusion)
   - [Appendix](#appendix)
 
-## 1️⃣ The Scenario {#the-scenario}
+## 1️⃣ The Scenario
 
 You are a junior data analyst working on the marketing analyst team at
 Cyclistic, a bike-share company in Chicago. The director of marketing
@@ -33,7 +33,7 @@ convert casual riders into annual members. But first, Cyclistic
 executives must approve your recommendations, so they must be backed up
 with compelling data insights and professional data visualizations.
 
-### Characters & Teams {#characters-teams}
+### Characters & Teams
 
 - **Cyclistic**: A bike-share program that features more than 5,800
   bicycles and 600 docking stations. Cyclistic sets itself apart by also
@@ -57,7 +57,7 @@ with compelling data insights and professional data visualizations.
   executive team will decide whether to approve the recommended
   marketing program.
 
-### About the Company {#about-the-company}
+### About the Company
 
 In 2016, Cyclistic launched a successful bike-share offering. Since
 then, the program has grown to a fleet of 5,824 bicycles that are
@@ -101,7 +101,7 @@ Three questions will guide the future marketing program:
 Moreno has assigned you the first question to answer: How do annual
 members and casual riders use Cyclistic bikes differently?
 
-## 2️⃣ The Business Task {#the-business-task}
+## 2️⃣ The Business Task
 
 The problem that we are trying to solve in this report is: **“How can
 Cyclistic maximize the number of annual memberships?”**
@@ -111,7 +111,7 @@ casual riders use Cyclistic bikes differently. We will specifically be
 looking at how they differ in ride length, usage within the week, and
 usage per month.
 
-## 3️⃣ Data Sources {#data-sources}
+## 3️⃣ Data Sources
 
 The data used in this report comes from the Cyclistic trip data which
 has been made available by Motivate International Inc. under this
@@ -129,15 +129,15 @@ individual rides:
 - Ending latitude & longitude
 - Type of rider that used the bike
 
-## 4️⃣ The Data {#the-data}
+## 4️⃣ The Data
 
-### Data Cleaning {#data-cleaning}
+### Data Cleaning
 
 View the Change Log to see how to data was cleaned.
 
-### The Analysis {#the-analysis}
+### The Analysis
 
-#### Ride Length {#ride-length)
+#### Ride Length
 
 To get a better idea of how casual riders differ from members, we will
 be looking at the differences in their ride lengths. We can do this by
@@ -181,7 +181,7 @@ hours and 45 minutes would be plotted in box plot 12 and y-coordinate
 
 ![image](https://github.com/user-attachments/assets/a03868e8-b862-40d9-9d6e-9511712a01b6)
 
-#### Day of week {#day-of-week}
+#### Day of week
 
 Next, we can check which day of the week casual riders and members use
 Cyclistic the most.
@@ -195,7 +195,7 @@ rides is on Friday while the highest peak in member rides is on Tuesday.
 
 ![image](https://github.com/user-attachments/assets/e184c242-818e-4a93-ae4c-e12e16d5fbee)
 
-### Season {#season}
+### Season
 
 Finally, we can look at which season the most Cyclistic casual rides and
 member rides occur.
@@ -208,7 +208,7 @@ Summer.
 
 ![image](https://github.com/user-attachments/assets/5f918f3b-16cb-4318-a643-442f512d7e35)
 
-## 🏁 Conclusion {#conclusion}
+## 🏁 Conclusion
 
 Based on our analysis, we identified three key differences between
 casual riders and members.
@@ -223,6 +223,6 @@ In the future, we could potentially run an analysis on the most popular
 riding stations, months, and hours to determine where and when Cyclistic
 ads would be most effective.
 
-### Appendix {#appendix}
+### Appendix
 
 - Data: <https://divvy-tripdata.s3.amazonaws.com/index.html>
